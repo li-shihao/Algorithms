@@ -1,7 +1,7 @@
 #include <algorithm>
 #include <cstdio>
 #include <vector>
-#define N 10
+#define N 20
 
 using namespace std;
 
